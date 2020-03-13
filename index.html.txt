@@ -1,7 +1,0 @@
-<!DOCTYPE html>
-<html>
-<body>
-<h1>helou</h1>
-<p>Testando site do meu bebê</p>
-</body>
-</html>
