@@ -9635,6 +9635,7 @@ hr.light {
     background: url("../img/bg-all.jpg");
 }
 .bg-terciary {
+    margin-top: -10px;
     background-color: lightgray;
 }
 
@@ -9748,6 +9749,8 @@ header.masthead h1 {
   position: relative;
   display: block;
 }
+
+
 
     #portfolio .container-fluid .portfolio-box .portfolio-box-caption {
         display: flex;
